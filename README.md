@@ -8,7 +8,7 @@
 
 👤 I am a 2nd year Information Technology student @ ASU. I have always been in love with tech from a young age and fiddled with programming on and off throughout my middle and highschool days.
 
-🪄 I hold a deep interest in the client-side of web development. The eternal pursuit of what's possible within creative design / UI and the constant tango of how to translate these designs effectively to the programming side to bring a functional, accessible, and expressive experience to users. 
+🪄 I hold a deep interest in the client-side of web development. The eternal pursuit of what's possible within creative design / UI and the constant tango of how to translate these designs effectively to the programming side to bring a functional, accessible, and expressive experience to users.
 
 💟 Outside of web development and designing, I enjoy a plethora of passions and hobbies but you'll mostly find me: 
 - 🏀 Playing basketball
@@ -16,6 +16,7 @@
 - 📖 Reading books (latest read: <a href="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299">Atomic Habits - James Clear</a>)
 - 💬 Learning languages, I'm an aspiring polyglot! My current languages are: English (Native), Spanish (Business Proficient), while my target languages are: Korean (my favorite language!), Italian, German, Mandarin, and Swedish. 
 - 🎨 Linux <a href="https://jie-fang.github.io/blog/basics-of-ricing">Ricing</a> (my latest hobby), tl;dr: I like pretty desktops! :D
+- 🚀 Dipping my toe into Web3 over at <a href="https://buildspace.so/@dje">Buildspace</a>
 
 ### My Mission
 
